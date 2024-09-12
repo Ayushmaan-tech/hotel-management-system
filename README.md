@@ -1,4 +1,4 @@
-# CS257 Group Project (Hotel Management System)
+#  Hotel Management System
 
 This is a website designed for internal functioning of a hotel. It can be used for booking purposes by the receptionist. It also provides support system and utility for the guests. From management of housekeepers to restaurant , it provides a wide range of solutions.
 
